@@ -32,3 +32,4 @@ Este proyecto presenta mi perfil académico y profesional, incluyendo formación
 
 Sharon Valentina Bolívar Cordero
 
+# perfil-profesional-sharon-bolivar
